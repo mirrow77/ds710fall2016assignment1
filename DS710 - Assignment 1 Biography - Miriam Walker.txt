@@ -1,0 +1,22 @@
+Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  
+Use GitHub to submit the resulting text file.
+1. What is your name?
+My name is Miriam Walker
+
+2. Why are you interested in Data Science?
+I am interested in Data Science because I have been working as a data analyst for over 13 years and want to expand on my data analytics knowledge so that I can move my career to the next level. In my opinion, many companies are now focusing on big data which means that data science is becoming one of the most critical elements of how a company plans to manage their data.    Which means that having just the basic analytic skills that working as a data analyst provides is not enough to make it in the world of big data. Hence, my need to learn more about data science and all the different statistical algorithms and other analytical concepts that are available to analyze and manage data.  
+
+3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I have taken SQL and SAS programming courses. As part of my job I am required to pull and analyze data from Oracle and GreenPlum. To do so I utilized both SQL and SAS daily. I have used both for a long time but I the more complex our data gets the more I still realize that there is so much I still don't know and have had to on many occasions gone online for additional help in my coding.
+   
+4. Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I have very basis statistics experience. Other than the Basic Statistics course I took for my undergrad degree I have not had to use any stats in my everyday work life.
+
+5. Do you have other experience with R or Python?
+I have never used R or Python and until now I was not familiar with R. I have heard of Python but never used it before.
+
+6. What do you hope to learn in this class?
+I hope to learn a lot about R and Python as well as about any emerging statistical method that's effective in data science and big data analytics. I also hope to connect with other students to network and share knowledge.
+
+7. Is there anything else you would like to share with us?
+I work full time as a senior metrics analyst. I am married and have two girls (9) and (20). My 20 year old is in her second year at Missouri State University. I am kind of anxious about taking on a master's degree at this time in my life after being out of school for so long but I am also looking forward to the challenges and new experiences.
